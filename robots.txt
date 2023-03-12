@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://plugin-reading-time2.vuejs.press/sitemap.xml
